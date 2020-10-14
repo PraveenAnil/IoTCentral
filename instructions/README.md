@@ -8,6 +8,10 @@ Choosing to build with Azure IoT Central gives an opportunity to focus your time
 
 ## Lab context
 
+Azure IoT Central enables the easy monitoring and management of a fleet of remote devices for logistics operations.
+
+Azure IoT Central encompasses a range of underlying technologies that work great, but can be complicated to implement when many technologies are needed. These technologies include Azure IoT Hub, the Azure Device Provisioning System (DPS), Azure Maps, Azure Time Series Insights, Azure IoT Edge, and others. It's only necessary to use these technologies directly, if more granularity is needed than available through IoT Central.
+
 In this workshop, you will learn how to deploy IoT Central Application Templates to rapdily build enterprise-grade IoT applications on a secure, reliable, and scalable infrastructure that optimize supply chains, improve experiences for customers, and track inventory more efficiently.
 
 

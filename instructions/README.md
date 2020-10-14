@@ -20,4 +20,6 @@ This exercise will cover how to add custom branding and operator resources to an
 
 ## Exercise 3 -	Connect IoT Plug and Play Certified Devices
 
+In this exercise, you will connect an IoT Plug and play certified devices to your application
+
 ## Exercise 4 -	IoT Central Openness and Integrations

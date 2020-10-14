@@ -13,7 +13,7 @@ In this workshop, you will learn how to deploy IoT Central Application Templates
 
 ## Exercise 1 - Getting Started with Azure IoT Central
 
-This exercise will cover how to get started with the existing IoT Central Connected logistics application template available in IoT Central.
+This exercise will cover how to get started with the existing IoT Central Connected logistics application template available in IoT Central for Asset Tracking Scenario
 
 ## Exercise 2 - Customizing IoT Central Application
 

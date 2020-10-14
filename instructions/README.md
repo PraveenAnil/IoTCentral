@@ -23,3 +23,7 @@ This exercise will cover how to add custom branding and operator resources to an
 In this exercise, you will connect an IoT Plug and play certified devices to your application
 
 ## Exercise 4 -	IoT Central Openness and Integrations
+
+In this exercise, you will see the openness and the integration capabilities of IoT Central
+
+
